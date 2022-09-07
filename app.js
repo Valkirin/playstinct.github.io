@@ -16,7 +16,7 @@ btn1.addEventListener('click', function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText('Сделать ставку 1!');
+    tg.MainButton.setText('Сделать ставку в 18Bet!');
     item = '1';
     tg.MainButton.show();
   }
@@ -26,7 +26,7 @@ btn2.addEventListener('click', function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText('Сделать ставку 2!');
+    tg.MainButton.setText('Сделать ставку в Wazamba!');
     item = '2';
     tg.MainButton.show();
   }
@@ -36,7 +36,7 @@ btn3.addEventListener('click', function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText('Сделать ставку 3!');
+    tg.MainButton.setText('Сделать ставку в Malina!');
     item = '3';
     tg.MainButton.show();
   }
@@ -46,7 +46,7 @@ btn4.addEventListener('click', function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText('Сделать ставку 4!');
+    tg.MainButton.setText('Сделать ставку в Nomini!');
     item = '4';
     tg.MainButton.show();
   }
